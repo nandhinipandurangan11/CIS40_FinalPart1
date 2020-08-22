@@ -1,0 +1,14 @@
+
+-----------------------------------
+        DE ANZA GRILL BILL
+        
+Customer: Walt Disney
+
+ITEM:             Quantity: COST:  
+Bacon Cheese         2      11.5
+Western Burger       3      17.85
+
+-----------------------------------
+			 Subtotal: 29.35
+			 Tax:      2.64
+			 Total:    31.99

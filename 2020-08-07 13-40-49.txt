@@ -1,0 +1,13 @@
+
+-----------------------------------
+        DE ANZA GRILL BILL
+        
+Customer: Nandhini Pandurangan
+
+ITEM:             Quantity: COST:  
+De Anza Burger       8      42.0
+Mushroom Swiss       5      29.75
+
+-----------------------------------
+			 Subtotal: 71.75
+			 Total:    71.75

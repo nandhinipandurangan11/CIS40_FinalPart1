@@ -1,0 +1,12 @@
+
+-----------------------------------
+        DE ANZA GRILL BILL
+        
+Customer: Siri Cortana 
+
+ITEM:             Quantity: COST:  
+Bacon Cheese         1      5.75
+
+-----------------------------------
+			 Subtotal: 5.75
+			 Total:    5.75
